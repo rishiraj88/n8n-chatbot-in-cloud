@@ -6,12 +6,12 @@ This project is a chatbot for customer support. It may be used as an internal te
 
 ### Tech tooling
 It is built upon:
-> n8n
-> LLM
-> Google Gemini
-> Ollama
-> Mistral
-> RAG implementation
+- n8n
+- LLM
+- Google Gemini
+- Ollama
+- Mistral
+- RAG implementation
 
 ## Mark your feedback at the Following Contact Points
 - **LinkedIn:** <https://www.linkedin.com/in/rishirajopenminds>
